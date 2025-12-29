@@ -28,7 +28,7 @@ services:
         value: postgres
       
       - key: DB_POSTGRESDB_USER
-        value: postgres
+        value: postgres.tnlpjasyzkvqdzspawgj
       
       # --- SECRETOS (SEGUROS PARA GITHUB) ---
       # Al usar 'sync: false', Render te pedirá estos valores manualmente
